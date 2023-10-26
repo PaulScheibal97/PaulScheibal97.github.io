@@ -291,13 +291,13 @@ letter-spacing: 3px;
 }
 
 
-@media only screen and (min-width: 850px){
+@media only screen and (min-width: 1200px){
   form{
     margin-left: 350px;
   }
 }
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 450px){
   .jumbotron{
     margin-bottom: 250px;
   }
@@ -331,6 +331,15 @@ letter-spacing: 3px;
     border-radius: 30%;
   }
 
+  .product-images, .com-images, .residential-images{
+    margin-left: 35px;
+    height: 350px !important;
+  }
+
+  .product-images, .product-images2{
+    margin-left: 32px;
+  }
+
   .product-jumbotron-text, .commercial-jumbotron-text, .residential-jumbotron-text{
     margin: 0;
   }
@@ -341,4 +350,10 @@ letter-spacing: 3px;
 
   }
 
+}
+
+@media only screen and (max-width: 440px){
+  .product-images, .product-images2, .com-images, .residential-images{
+    margin-left: 10px;
+  }
 }
