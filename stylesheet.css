@@ -315,7 +315,7 @@ letter-spacing: 3px;
     justify-content: center;
   }
 
-  .gallery-jumbotron, .commercial-jumbotron, .residential-jumbotron{
+  .gallery-jumbotron, .commercial-jumbotron, .residential-jumbotron, .product-jumbotron{
     height: 100px;
     border-radius: 30%;
   }
