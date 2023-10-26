@@ -297,6 +297,13 @@ letter-spacing: 3px;
   }
 }
 
+@media only screen and (max-width: 850px){
+  .gallery-images{
+    height: 400px;
+    width: 385px;
+  }
+}
+
 @media only screen and (max-width: 450px){
   .jumbotron{
     margin-bottom: 250px;
