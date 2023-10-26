@@ -283,6 +283,13 @@ letter-spacing: 3px;
   border-radius: 30%;
 }
 
+.gallery-container{
+  display:flex;
+  align-items:center;
+  background-position: center;
+  justify-content: space-between;
+}
+
 
 @media only screen and (min-width: 850px){
   form{
