@@ -311,6 +311,10 @@ letter-spacing: 3px;
   .jumbotron-cover{
     height: 375px;
   }
+
+  .jumbotron-button{
+    margin-bottom: 50px;
+  }
   
   input{
     width: 250px;
