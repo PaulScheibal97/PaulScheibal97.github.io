@@ -303,6 +303,9 @@ letter-spacing: 3px;
     height: 400px;
     width: 385px;
   }
+  .product-images, .product-images2, .residential-images, .com-images{
+    margin-left: 115px;
+  }
 }
 
 @media only screen and (max-width: 450px){
