@@ -306,6 +306,15 @@ letter-spacing: 3px;
   .product-images, .product-images2, .residential-images, .com-images{
     margin-left: 115px;
   }
+  .jumbotron{
+    height: 300px;
+  }
+  .jumbotron-button{
+    margin-bottom: 300px;
+  }
+  .jumbotron-text-bottom{
+    margin-top: 600px;
+  }
 }
 
 @media only screen and (max-width: 450px){
